@@ -133,7 +133,7 @@ body{
 }
 /*----drop down menu-----*/
 .drop-down{
-    display: block;
+    display: none;
     background: rgba(0, 0, 0, 0.73);
     width: 324px;
     height: 500px;
@@ -144,12 +144,18 @@ body{
     padding-top: 10px;   
     z-index: 10; 
     opacity: 50%;
+    
+    
 }
 .drop-down i{
 padding-left: 30px;
 color:#fcba70;
-
 }
+
+.drop-down-view{
+    display: block; 
+}
+
 
 .drop-down ul{
     list-style: none;
