@@ -143,20 +143,15 @@ body{
     border-radius:3px;
     padding-top: 10px;   
     z-index: 10; 
-    opacity: 50%;
-    
-    
+    opacity: 50%;    
 }
 .drop-down i{
 padding-left: 30px;
 color:#fcba70;
 }
-
 .drop-down-view{
     display: block; 
 }
-
-
 .drop-down ul{
     list-style: none;
 }
@@ -170,7 +165,6 @@ color:#fcba70;
     color: #4A4A4A;
     padding: 20px;   
     transition: ease-in 300ms; 
-
 }
 .drop-down hr{
     border: 1px solid #272727;
